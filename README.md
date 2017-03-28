@@ -17,4 +17,4 @@
 
 ## Clean
 `bin/clean.sh` removes silly garbage<br>
-`bin/cleanAll.sh` does everything `bin/clean.sh` does and also remove `node_modules`
+`bin/cleanAll.sh` does everything `bin/clean.sh` does and also removes `node_modules`
