@@ -1,8 +1,5 @@
 # Node Express API Test
 
-## TODO
-* create api cert with letsecrypt
-
 ## Important Scripts
 
 ### Setup
